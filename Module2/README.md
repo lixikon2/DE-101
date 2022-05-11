@@ -7,8 +7,11 @@
 ## Загрузка данных в БД
 ### Создание таблиц и загрузка данных
 SQL запросы для создания таблиц и загрузки данных:
+
 [Orders](https://github.com/lixikon2/DE-101/blob/main/Module2/orders_creating.sql)
+
 [Returns](https://github.com/lixikon2/DE-101/blob/main/Module2/returns_creating.sql)
+
 [People](https://github.com/lixikon2/DE-101/blob/main/Module2/people_creating.sql)
 
 Примеры аналитических SQL-запросов:
