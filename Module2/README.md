@@ -31,7 +31,7 @@ SQL запросы для создания таблиц и загрузки да
 
 ![img](https://github.com/lixikon2/DE-101/blob/main/Module2/physical%20data%20model.png)
 
-###DDL and data insert
+### DDL and data insert
 
 [DDL](https://github.com/lixikon2/DE-101/blob/main/Module2/DDL_Kimball.sql)
 [Data insert](https://github.com/lixikon2/DE-101/blob/main/Module2/Insert.sql)
