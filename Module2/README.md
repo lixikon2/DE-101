@@ -15,6 +15,7 @@ SQL запросы для создания таблиц и загрузки да
 [People](https://github.com/lixikon2/DE-101/blob/main/Module2/people_creating.sql)
 
 Примеры аналитических SQL-запросов:
+
 [Calculating some simple metricks](https://github.com/lixikon2/DE-101/blob/main/Module2/calculating_metricks.sql)
 
 ## Нарисовать модель данных в SQLdbm
@@ -37,6 +38,7 @@ SQL запросы для создания таблиц и загрузки да
 ### DDL and data insert
 
 [DDL](https://github.com/lixikon2/DE-101/blob/main/Module2/DDL_Kimball.sql)
+
 [Data insert](https://github.com/lixikon2/DE-101/blob/main/Module2/Insert.sql)
 
 ## Облачная БД Superbase
